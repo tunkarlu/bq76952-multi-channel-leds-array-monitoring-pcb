@@ -5,6 +5,7 @@
 2. Use the schematic (`.kicad_sch`) to inspect signal naming, channel scaling, and LM317 regulator settings; propagate changes into the PCB (`.kicad_pcb`) via KiCad's **Update PCB from Schematic** tool.
 3. Generate fabrication outputs (Gerbers, drills, pick-and-place, and `BQ76952_uPi_Hat.csv`) when you are ready to order boards or run simulations for your thesis experiments.
 4. Document measurement runs and firmware configurations in your own branch to keep bachelor thesis logs aligned with the exact hardware revision.
+<img width="2338" height="1353" alt="BQ76952_uPi_Hat_Filled_Top" src="https://github.com/user-attachments/assets/720f18d9-de41-4366-95a7-dce52ca37a84" />
 
 ## Purpose & Scope
 This board is the hardware platform for a bachelor thesis focused on predicting high-power LED lifetime and scheduling preventative maintenance. It leverages Texas Instruments' `BQ76952` BMS front-end to acquire per-LED telemetry with up to 32-bit resolution, enabling precise degradation tracking for as many as 16 LEDs (down to 5 by shorting unused inputs). The design is intentionally scalable: multiple boards can share a single Raspberry Pi Zero host via SPI chip-select fan-out or operate independently over I2C.
