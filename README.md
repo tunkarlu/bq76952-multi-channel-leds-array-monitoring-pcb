@@ -3,7 +3,7 @@
 ## How to Use This Repo
 1. Clone or download the project and open `BQ76952_uPi_Hat.kicad_pro` with KiCad 8.x or newer.
 2. Use the schematic (`.kicad_sch`) to inspect signal naming, channel scaling, and LM317 regulator settings; propagate changes into the PCB (`.kicad_pcb`) via KiCad's **Update PCB from Schematic** tool.
-3. Generate fabrication outputs (Gerbers, drills, pick-and-place, and `BQ76952_uPi_Hat.csv`) when you are ready to order boards or run simulations for your thesis experiments.
+3. Generate fabrication outputs (Gerbers, drills, pick-and-place, and `BQ76952_uPi_Hat.csv`) when you are ready to order boards or run simulations for your experiments.
 4. Document measurement runs and firmware configurations in your own branch to keep bachelor thesis logs aligned with the exact hardware revision.
 <img width="2338" height="1353" alt="BQ76952_uPi_Hat_Filled_Top" src="https://github.com/user-attachments/assets/720f18d9-de41-4366-95a7-dce52ca37a84" />
 
