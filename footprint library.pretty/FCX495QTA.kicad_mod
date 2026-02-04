@@ -1,0 +1,351 @@
+(footprint "FCX495QTA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "FCX495QTA-2")
+	(tags "Transistor BJT NPN")
+	(property "Reference" "REF**"
+		(at 2.53 -2.298 0)
+		(layer "F.SilkS")
+		(uuid "190aa4f7-dbe0-4105-9876-af6ac6c5309f")
+		(effects
+			(font
+				(size 0.65 0.65)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "FCX495TA"
+		(at 0 -0.133 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "62626aa1-4726-4192-847c-43dd87223efb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.diodes.com//assets/Datasheets/FCX495.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13991193-9486-4ce6-92c5-4f73983f0238")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Diodes Inc FCX495TA NPN Bipolar Transistor, 1 A, 150 V, 4-Pin SOT-89"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9237688-24b0-4ee8-9069-93a5dcf92a38")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a5e67a7-5489-42d6-ae98-ca22ecea6d4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "522-FCX495TA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61878763-affc-4178-a257-662c0d8c5ef8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/FCX495TA?qs=fpoYs8%2FwAu9bxDJK3FfPWA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0663e674-1bdb-415b-93f1-501bc3758140")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Diodes Incorporated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45a0067a-b04f-49cd-a232-56af4d3ecdb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "FCX495TA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae74629d-547a-41de-b4a1-14e0098c1d26")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.25 -1.383)
+		(end -2.25 1.117)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03705707-5d2a-48ca-bfad-b2415aff4c8d")
+	)
+	(fp_line
+		(start -1.6 2.6)
+		(end -1.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2fdf4094-b5d2-4c99-811e-0a7571422757")
+	)
+	(fp_line
+		(start -1.6 2.6)
+		(end -1.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ef25b25-ec16-4615-8a5d-dc2f2beac233")
+	)
+	(fp_line
+		(start -1.5 2.6)
+		(end -1.5 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62fe02ad-f93f-462a-8a41-843eb415af45")
+	)
+	(fp_line
+		(start -1.4 -1.4)
+		(end -2.25 -1.383)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79cd8387-0a5e-43fb-b006-4e0cef16d81e")
+	)
+	(fp_line
+		(start 1.4 -1.4)
+		(end 2.25 -1.383)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1998c98-906a-4601-9522-1a33cdfeae67")
+	)
+	(fp_line
+		(start 2.25 -1.383)
+		(end 2.25 1.117)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39b6c368-4572-413a-9b70-24721394b755")
+	)
+	(fp_arc
+		(start -1.6 2.6)
+		(mid -1.55 2.55)
+		(end -1.5 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c183d96-bb03-4c9e-9f13-b2fa51fdf964")
+	)
+	(fp_arc
+		(start -1.5 2.6)
+		(mid -1.55 2.65)
+		(end -1.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b730cb96-e7bb-4700-9908-0dc137322252")
+	)
+	(fp_arc
+		(start -1.5 2.6)
+		(mid -1.55 2.65)
+		(end -1.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fcd413e4-7d95-4298-81ac-e275b770b733")
+	)
+	(fp_line
+		(start -3.25 -3.398)
+		(end 3.25 -3.398)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "737a626c-99a5-4bef-b98b-f42c4f39f612")
+	)
+	(fp_line
+		(start -3.25 3.133)
+		(end -3.25 -3.398)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c31d3abe-6bf5-4365-9823-6ffbb76a3b90")
+	)
+	(fp_line
+		(start 3.25 -3.398)
+		(end 3.25 3.133)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a1848170-aa78-4364-886a-9be88c25f9fa")
+	)
+	(fp_line
+		(start 3.25 3.133)
+		(end -3.25 3.133)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b0b5e921-35bb-495e-b4b7-d894995ad641")
+	)
+	(fp_line
+		(start -2.25 -1.383)
+		(end -2.25 1.117)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ddd63c2d-fa6b-442c-bc3f-43802fb4c106")
+	)
+	(fp_line
+		(start -2.25 1.117)
+		(end 2.25 1.117)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "da2d6e21-a75a-4cbd-836f-7064171b15d7")
+	)
+	(fp_line
+		(start 2.25 -1.383)
+		(end -2.25 -1.383)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b73b557b-f3b9-4205-a1f8-a596aa595d9e")
+	)
+	(fp_line
+		(start 2.25 1.117)
+		(end 2.25 -1.383)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cbad456a-a4ba-4411-b938-f30b56aff2a4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.133 0)
+		(layer "F.Fab")
+		(uuid "9fa3ce8c-47ce-493f-bce9-fa256f4d7bb3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 1.268)
+		(size 0.58 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "08162748-9ae2-42a8-8538-dccb626a5e00")
+	)
+	(pad "2" smd rect
+		(at 0 1.383)
+		(size 0.76 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cdb64f5f-adba-47b6-bedc-059a321fa994")
+	)
+	(pad "3" smd rect
+		(at 1.5 1.268)
+		(size 0.58 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cb9c7e04-72f5-44cd-a29a-fdaebc7fa412")
+	)
+	(pad "4" smd rect
+		(at 0 -0.883)
+		(size 1.933 3.03)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13a26a82-2ec2-49d1-a108-b4ddcc33530f")
+	)
+	(embedded_fonts no)
+	(model "FCX495TA.stp"
+		(offset
+			(xyz 0 0.2499999962 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
